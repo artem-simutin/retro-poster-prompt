@@ -1,0 +1,11 @@
+{
+  "name": "retro-poster-prompt",
+  "version": "1.0.0",
+  "description": "Simple prompt generator for MidJourney AI image generator to create beautiful poster images in 1950s",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "statik-coder",
+  "license": "ISC"
+}
