@@ -6,9 +6,7 @@ Fistly install all required dependencies by runnig this command:
 ```shell
 npm install
 ```
-
 or
-
 ```shell
 yarn
 ```
@@ -18,9 +16,7 @@ To start the CLI you need to enter a command:
 ```shell
 npm start
 ```
-
 or
-
 ```shell
 yarn start
 ```
