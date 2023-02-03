@@ -3,9 +3,13 @@
   "version": "1.0.0",
   "description": "Simple prompt generator for MidJourney AI image generator to create beautiful poster images in 1950s",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node index.js"
   },
   "author": "statik-coder",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "clipboardy": "^3.0.0"
+  }
 }
