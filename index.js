@@ -12,7 +12,7 @@ const readlineInterface = readline.createInterface({
 });
 
 const createPrompt = (prompt) => {
-  return `${DECADE}s, iconic mid century, without text, ${prompt} --ar ${ASPECT_RATIO_X}:${ASPECT_RATIO_Y} --v ${GENERATOR_VERSION}`;
+  return `${DECADE}s, iconic mid century, without text, ${prompt}, realistic, cinematic, ultra detailed --ar ${ASPECT_RATIO_X}:${ASPECT_RATIO_Y} --v ${GENERATOR_VERSION}`;
 };
 
 const init = () => {
